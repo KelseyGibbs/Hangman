@@ -1,0 +1,44 @@
+header {
+    background: #F7B32B;
+    text-align: center;
+    height: 150px;
+    border-bottom: solid 15px black;
+
+
+}
+
+body {
+    background-image: url("../css/images/giphy.gif");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.jumbotron{
+    padding: .25in;
+    margin-top: 4in;
+    background: #D3C0D2;
+    margin-top: 23px;
+    text-align:center;
+    color: #2D1E2F;
+}
+
+
+
+
+
+
+
+
+footer {
+    background-color: #FCF6B1;
+    height: 80px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    border-top: solid 20px black;
+    border-bottom: solid 15px #E3170A;
+}
