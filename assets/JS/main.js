@@ -92,4 +92,5 @@ function reset() {
     main();
 }
 getStarted();
+
 main();
