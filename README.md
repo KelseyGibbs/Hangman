@@ -1,7 +1,6 @@
 # Pocket Monster Word Game
 
-#Heroku Link https://immense-gorge-55501.herokuapp.com/
-
+#[Live Demo](https://kelseygibbs.github.io/PokemonWordGame/)
 This project is a hangman style word guessing game with a pokemon theme.
 
 ## Technology
